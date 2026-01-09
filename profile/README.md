@@ -30,14 +30,13 @@ Production-ready Flutter boilerplate templates to kickstart your next project.
 | **Subscriptions**        | RevenueCat integration, paywall UI                                                      |    ✅    |    ✅    |
 | **Ads**                  | Banner, interstitial, rewarded, rewarded interstitial ads                               |    ✅    |    ✅    |
 | **Local Notifications**  | Immediate & scheduled notifications, permission handling                                |    ✅    |    ✅    |
-| **File Uploads**         | Progress tracking, cancellable, folder organization                                     |    ✅    |    ✅    |
+| **File Uploads**         | Progress tracking, cancellable uploads, folder organization                                     |    ✅    |    ✅    |
 | **Settings**             | Theme selection, color themes, language, haptic feedback                                |    ✅    |    ✅    |
 | **Onboarding**           | Customizable first-time user experience                                                 |    ✅    |    ✅    |
-| **Analytics**            | PostHog integration, navigation observer                                                |    ✅    |    ✅    |
-| **Crash Reporting**      | Sentry integration, source map uploads                                                  |    ✅    |    ✅    |
+| **Analytics**            | PostHog & Firebase Analytics integration, navigation observer                                                |    ✅    |    ✅    |
+| **Crash Reporting**      | Sentry & Firebase Crashlytics integration, source map uploads                                                  |    ✅    |    ✅    |
 | **Localization**         | Multi-language support (EN, BN included)                                                |    ✅    |    ✅    |
 | **Logger Service**       | Structured logging                                                                      |    ✅    |    ✅    |
-| **Platform Checker**     | iOS, Android, Web, macOS, Linux, Windows detection                                      |    ✅    |    ✅    |
 | **Timezone Service**     | Timezone-aware scheduling                                                               |    ✅    |    ✅    |
 | **URL Launcher**         | Open URLs, emails, phone numbers                                                        |    ✅    |    ✅    |
 | **File & Image Picker**  | Pick files and images from device                                                       |    ✅    |    ✅    |
